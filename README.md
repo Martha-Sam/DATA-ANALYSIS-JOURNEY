@@ -14,6 +14,7 @@ The primary source of data for this documentation was obtained during the cause 
 #### Tools Used
 During my training, I learned and used the following tools:
 - Microsoft Excel for Data entry, cleaning, analysis and Visiaulization
+  - *To download Microsoft Excel, [Click Here](https://www.microsoft.com)*
 - SQL- Structured Query Language for data querying, using databases and tables
 - Power BI for stunning data visualizations
 
