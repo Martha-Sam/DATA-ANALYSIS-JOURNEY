@@ -11,7 +11,7 @@ As a data analyst, I've learned that data analysis is more than just numbers; it
 ### Data Source
 The primary source of data for this documentation was obtained during the cause of the training  
 
-#### Tools Used
+### Tools Used
 During my training, I learned to use the following tools:
 - Microsoft Excel for Data entry, Cleaning, Analysis, and Visualization
   - *Download Microsoft Excel [Click Here](https://www.microsoft.com)*
@@ -24,29 +24,33 @@ During my training, I learned to use the following tools:
  
 - Github for portfolio building
 
+---
+
 ### Data Cleaning and Preparation 
-I've honed my Excel skills, starting with:
+I honed my analytical skills by learning and performing the following actions on a given data set during the training;
 
-- Data entry fundamentals using Forms
-- Data validation (Alt+AVV) for error-free entry
-- Text data validation using Named Ranges
+In Excel;
+- Data loading & Inspection
+- Data entry using Forms
+- Validating data for error-free entry (Alt+AVV)
+- Text data validation using Named Range
 - Conditional analysis with IF & IFS functions (SUMIF, AVERAGEIF, MAXIFS, MINIFS)
-- Text extraction (LEFT, RIGHT, MID functions)
-- Text cleaning (UPPER, LOWER, PROPER, TRIM, & AMPACANT functions)
+- Text extraction using the LEFT, RIGHT & MID function
+- Data Cleaning & Formatting (UPPER, LOWER, PROPER, TRIM, & AMPACANT functions)
 
-SQL Expertise
-
-I've learned SQL fundamentals, including:
-
-- DDL (Data Definition Language): CREATE, DROP, ALTER, TRUNCATE
-- DML (Data Manipulation Language): INSERT, UPDATE
-- DCL (Data Control Language): GRANT/REVOKE permission
-- TCL (Transactional Control Language): ROLLBACK, SAVEPOINT, COMMIT
-- DQL (Data Query Language): SELECT
+In SQL;
+- DDL (Data Definition Language) to CREATE, DROP, ALTER, and TRUNCATE a table in a database
+- DML (Data Manipulation Language) to INSERT, UPDATE values into a table
+- DCL (Data Control Language) to GRANT/REVOKE permission to a database
+- TCL (Transactional Control Language ) to ROLLBACK, SAVEPOINT & COMMIT changes to a table 
+- DQL (Data Query Language) has only one command 'SELECT' 
 - Aggregate functions: SUM, AVERAGE, MAX, MIN, COUNT
 - SQL operators: Comparison, Arithmetic, Logical
+---
 
-Power BI Visualization
+### Exploratory Data Analysis
+Here I learnt to explore the data to answer some questions about the data such as;
+1Visualization
 
 With Power BI, I've discovered the power of data visualization, transforming complex data into actionable insights.
 
