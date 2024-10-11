@@ -54,30 +54,19 @@ Here I learned to explore the data to answer some questions and gain insights ab
 2. What is the Overall sales trend
 3. Which state/ region has the highest sales?
 
-### Data Analysis
-This is where we included some basic lines of codes and queries used during our analysis;
-
+We also included some basic lines of codes and queries for our analysis;
 ```SQL
 SELECT * FROM EMPLOYEE
-WHERE
+WHERE staffid = 'AB245'
 ```
+---
 
-
-#### Key Takeaway
-In Summary, this journey has taught me:
+**In Summary,** this journey has taught me:
 - Data analysis is a problem-solving process
 - Effective data visualization is crucial for decision-making
 - SQL and Excel are powerful tools for data manipulation and analysis
 
-
-Next Steps
-
-As I continue to grow as a data analyst, I'm excited to:
-
+Moving forward, as I continue to grow as a data analyst, I'm excited to:
 - Explore advanced data visualization techniques
-- Develop predictive modeling skills
+- Develop predictive modeling skills &
 - Collaborate on projects that drive business impact
-
-Join me on this exciting journey! Let's uncover hidden insights and drive data-driven decisions together.
-
-Here I documented how my journey into tech as a Data Analyst started and insight gained with LITA and the Incubator Hub
