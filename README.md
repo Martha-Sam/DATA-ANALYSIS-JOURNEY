@@ -12,18 +12,19 @@ As a data analyst, I've learned that data analysis is more than just numbers; it
 The primary source of data for this documentation was obtained during the cause of the training  
 
 #### Tools Used
-During my training, I learned and used the following tools:
-- Microsoft Excel for Data entry, cleaning, analysis, and Visualization
+During my training, I learned to use the following tools:
+- Microsoft Excel for Data entry, Cleaning, Analysis, and Visualization
   - *Download Microsoft Excel [Click Here](https://www.microsoft.com)*
     
-- SQL- Structured Query Language for data querying, using databases and tables
-  - *Download SQL [Click Here](https://www.microsoft.com)*
+- SQL- Structured Query Language for data querying in a database and tables
+  - *Download SQL [Click Here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)*
     
 - Power BI for stunning data visualizations
   - *Download PowerBI [Click Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)*
+ 
+- Github for portfolio building
 
-Excel Skills
-
+### Data Cleaning and Preparation 
 I've honed my Excel skills, starting with:
 
 - Data entry fundamentals using Forms
