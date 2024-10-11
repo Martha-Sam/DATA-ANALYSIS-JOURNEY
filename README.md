@@ -5,14 +5,16 @@
 ### Overview
 I embarked on an incredible journey with Ladies in Tech Africa (LITA) and the Incubator Hub. This transformative experience has been insightful, challenging, and result-oriented, equipping me with cutting-edge data analysis skills.
 
-As a data analyst, I've learned that data analysis is more than just numbers; it's about uncovering hidden stories. I've mastered the art of data summarization, problem-solving, and decision-making. Key takeaways from my training include:
+As a data analyst, I've learned that data analysis is more than just numbers; it's about uncovering hidden stories. I've also mastered the art of data summarization, problem-solving, and decision-making. This documentation aims to share key insights and takeaways from my training.
 
 ---
-#### TOOLS FOR DATA ANALYSIS 
+### Data Source
+The primary source of data for this documentation was obtained during the cause of the training  
 
-During my training, I learned the following tools:
-- Microsoft Excel for data entry, cleaning, and analysis
-- SQL for data querying, using databases and tables
+#### Tools Used
+During my training, I learned and used the following tools:
+- Microsoft Excel for Data entry, cleaning, analysis and Visiaulization
+- SQL- Structured Query Language for data querying, using databases and tables
 - Power BI for stunning data visualizations
 
 Excel Skills
