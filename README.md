@@ -49,18 +49,26 @@ In SQL;
 ---
 
 ### Exploratory Data Analysis
-Here I learnt to explore the data to answer some questions about the data such as;
-1Visualization
+Here I learned to explore the data to answer some questions and gain insights about the data such as;
+1. What is the grand total sales
+2. What is the Overall sales trend
+3. Which state/ region has the highest sales?
 
-With Power BI, I've discovered the power of data visualization, transforming complex data into actionable insights.
+### Data Analysis
+This is where we included some basic lines of codes and queries used during our analysis;
 
-Key Takeaways
+```SQL
+SELECT * FROM EMPLOYEE
+WHERE
+```
 
-This journey has taught me:
 
+#### Key Takeaway
+In Summary, this journey has taught me:
 - Data analysis is a problem-solving process
 - Effective data visualization is crucial for decision-making
 - SQL and Excel are powerful tools for data manipulation and analysis
+
 
 Next Steps
 
